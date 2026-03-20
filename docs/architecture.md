@@ -1,4 +1,4 @@
-GigShield AI — Phase-1 Architecture
+GigArmor — Phase-1 Architecture
 
 Frontend (static form)
     ↓
